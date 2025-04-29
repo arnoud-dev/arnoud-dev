@@ -74,7 +74,7 @@ I’m currently studying **Data Engineering & AI** at **HoGent**. My interests s
   <a href="https://discordapp.com/users/arnoud8923" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://mywebsite.com" target="_blank">
+  <a href="https://arnoud-dev.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" alt="Website" />
   </a>
   <a href="mailto:varnoud67@gmail.com" target="_blank">
